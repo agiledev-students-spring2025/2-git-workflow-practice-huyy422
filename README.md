@@ -4,3 +4,6 @@ I thought this article was extremely insightful and interesting because it explo
 
 ## Nabiha Siddique (ns5190) Edit
 Cool article!
+
+## Chuqiao Huang (ch3807) Comment:
+Your thoughts on the article are great especially highlight other important technologies besides AI, like digital twins, platform engineering, and chaos engineering. I also found this article interesting since it provides an exciting view on how emerging technologies will shape the future of software development and simplify complex tasks.
